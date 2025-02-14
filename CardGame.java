@@ -1,4 +1,6 @@
-package cardGame;
+	//Nathan Perez
+	//Mohammad Nawid Wafa
+package CardGame;
 
 import java.io.File;
 import java.io.FileNotFoundException;
